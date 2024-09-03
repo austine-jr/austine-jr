@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a full stack web developer, passionate about learning new technologies and building useful applications.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austine-jr)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌱 About Me
 - 📚 I’m currently learning full stack web development, focusing on both front-end and back-end technologies.
 - 🎓 I have a background in IT.
