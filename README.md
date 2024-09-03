@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQGCLAuC8MZINQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695964707373?e=1730937600&v=beta&t=gNgBwS2INkcwTzhugl939fPVfIS_sZKNFof5tkoFSkg)
+![Banner](https://github.com/austine-jr/austine-jr/blob/main/1695964707373.jpg)
 
 # Hi there, I'm Austine! 👋
 
