@@ -1,8 +1,8 @@
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQGCLAuC8MZINQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695964707373?e=1730937600&v=beta&t=gNgBwS2INkcwTzhugl939fPVfIS_sZKNFof5tkoFSkg)
+
 # Hi there, I'm Austine! 👋
 
 Welcome to my GitHub profile! I'm a full stack web developer, passionate about learning new technologies and building useful applications.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austine-jr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 About Me
 - 📚 I’m currently learning full stack web development, focusing on both front-end and back-end technologies.
@@ -36,3 +36,5 @@ Welcome to my GitHub profile! I'm a full stack web developer, passionate about l
 
 ## 📜 License
 This profile and the code in the repositories are licensed under the MIT licence. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austine-jr)](https://github.com/anuraghazra/github-readme-stats)
