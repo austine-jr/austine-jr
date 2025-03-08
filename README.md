@@ -33,5 +33,3 @@ Welcome to my GitHub profile! I'm a full stack web developer, passionate about l
 ## 💡 Looking For
 - Opportunities to collaborate on beginner-friendly open-source projects.
 - Mentorship or advice from experienced developers in the industry.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austine-jr)](https://github.com/anuraghazra/github-readme-stats)
